@@ -89,24 +89,6 @@ The analysis is designed to identify:
 
 Specific findings should be reported using the actual values and rankings obtained from the analysis.
 
-
-Project Structure
-
-Ecommerce-sales-analysis/
-├── data/
-│   ├── SampleSuperstore.csv
-│   └── processed/
-│       └── cleaned_superstore.csv
-├── scripts/
-│   └── sales_analysis.ipynb
-├── visualizations/
-├── PowerBI DashBoard/
-│   └── PowerBI Sales Dashboard.pbix
-├── report/
-│   └── Week6_Final_Report.pdf
-├── README.md
-
-
 How to Run the Analysis
 
 1. Clone or download this repository.
